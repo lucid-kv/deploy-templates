@@ -1,2 +1,3 @@
-# deploy-templates
-Windows Azure and Heroku deploy templates.
+# Lucid Deploy Templates
+
+Microsoft Azure and Heroku deploy templates.
