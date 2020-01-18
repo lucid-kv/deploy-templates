@@ -2,6 +2,6 @@
   "name": "Lucid KV Node",
   "description": "A simple Lucid node.",
   "repository": "https://github.com/lucid-kv/deploy-templates",
-  "logo": "hhubusercontent.com/lucid-kv/deploy-templates/master/lucid.png",
+  "logo": "https://raw.githubusercontent.com/lucid-kv/deploy-templates/master/lucid.png",
   "keywords": ["lucid", "node", "key-value", "kv store", "lucid-kv"]
 }
