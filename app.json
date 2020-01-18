@@ -3,5 +3,12 @@
   "description": "A simple Lucid node.",
   "repository": "https://github.com/lucid-kv/deploy-templates",
   "logo": "https://raw.githubusercontent.com/lucid-kv/deploy-templates/master/lucid.png",
-  "keywords": ["lucid", "node", "key-value", "kv store", "lucid-kv"]
+  "website": "https://lucid-kv.store/",
+  "repository": "https://github.com/lucid-kv/lucid",
+  "keywords": ["lucid", "node", "key-value", "kv store", "lucid-kv"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/emk/heroku-buildpack-rust"
+    }
+  ]
 }
