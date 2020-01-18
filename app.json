@@ -6,6 +6,7 @@
   "website": "https://lucid-kv.store/",
   "repository": "https://github.com/lucid-kv/lucid",
   "keywords": ["lucid", "node", "key-value", "kv store", "lucid-kv"],
+  "image": "emk/rust",
   "buildpacks": [
     {
       "url": "https://github.com/emk/heroku-buildpack-rust"
